@@ -1,0 +1,5 @@
+target/
+.idea/
+*.iml
+/src/main/resources/**.tgz
+/nbactions.xml

@@ -1,0 +1,20 @@
+project:
+  name: esbuild-maven-plugin
+  description: Use esbuild with Maven
+  longDescription: |
+    Use esbuild with Maven
+  authors:
+    - Andy Damevin
+    - Erik Jan de Wit
+    - Phillip Kruger
+  license: Apache-2.0
+  links:
+    homepage: https://github.com/mvnpm/esbuild-maven-plugin
+  java:
+    groupId: io.mvnpm
+    version: 17
+  inceptionYear: 2023
+
+release:
+  github:
+    owner: mvnpm
